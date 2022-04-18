@@ -16,14 +16,27 @@
 
 - What are the key strengths of each person on the team?
   
+  - Barham Farraj: Debugging, pure python. 
+
+  - Ahmad Jaara: Data science, on the clock, team player.
+
+  - Eman Al-shaikh: Computer vision, punctional.
+
+  - Raneem Oqaily: Web scraping, researcher skill, data science.
+
+  - Zaid Jarrar: Data science, pure python, web scraping.
+
 
 - How can you best utilize these strengths in the execution of your project?
+  - We divide the tasks based on what we are good at.
  
 
 - In which professional competencies do you each want to develop greater strength?
+  - All of us agree on improving on machine learning and computer vision fields.
  
 
 - Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
+  - By using a project management tool (trello), in addition to having brief discussion at the beginning of each day.
   
 
 # Conflict Plan
@@ -32,7 +45,7 @@
   - Dedicate a time to discuss any conflicts between members and to find the solution around it.
 
 - What will your team do if one person is taking over the project and not letting the other members contribute?
-  - we will let the member understand the sitituation.
+  - we will let the member understand the situation.
   - We will work it out together.
  
 - How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
@@ -40,8 +53,8 @@
   - We will plan an extra meeting to do further revision of the current idea.
  
 - How will you raise concerns to members who are not adequately contributing?
-  - We will let the member understand the sitituation.
-  - We will disturbute the tasks accordingly
+  - We will let the member understand the situation.
+  - We will distribute  the tasks accordingly
  
 - How and when will you escalate the conflict if your resolution attempts are unsuccessful? 
   - We will contact the teacher assistant.
@@ -60,7 +73,7 @@
   - Every 1 hour we will take a 10 mins break.
  
 - What is your plan if you start to fall behind?
-  - We will an make extra meeting to discuss the time needed to accomoplish the (MVP)
+  - We will an make extra meeting to discuss the time needed to accomplish  the (MVP)
   
 
 - How will you communicate after hours and on the weekend? 
@@ -73,8 +86,8 @@
   
 - How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
   - Accept any new ideas given and never underestimate it.
-  - Make space for open & equal disccussions.
-  - Not judging anyone for their opinion,after all we all learning.
+  - Make space for open & equal discussions.
+  - Not judging anyone for their opinion,after all we are all learning.
   - Have faith in eachother.
  
 # Work Plan
@@ -89,10 +102,10 @@
 # Git Process
 
 - What components of your project will live on GitHub?
-  - 
+  - Documentations
 
 - How will you share the repository with your teammates?
-  - The repository will be on published an origanization for the group.
+  - The repository will be on published the organization  for the group.
  
 - What is your Git flow?
   - Every main part of the project should have a separate branch.
