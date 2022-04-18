@@ -10,7 +10,7 @@
 
 -Raneem Oqaily
 
--zaid Jarrar
+-Zaid Jarrar
 
 # Cooperation Plan
 
