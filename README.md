@@ -8,6 +8,8 @@
 
 -Eman Al-shaikh
 
+-Faisal Al Hawajreh
+
 -Raneem Oqaily
 
 -Zaid Jarrar
@@ -25,6 +27,8 @@
   - Raneem Oqaily: Web scraping, researcher skill, data science.
 
   - Zaid Jarrar: Data science, pure python, web scraping.
+  
+  - Faisal Al Hawajreh : Attention to detail,analytical thinking.
 
 
 - How can you best utilize these strengths in the execution of your project?
