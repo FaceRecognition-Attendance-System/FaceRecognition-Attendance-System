@@ -49,7 +49,8 @@
 # Communication Plan
 
 - What hours will you be available to communicate?
-  - 10 AM -
+  - 10 AM - 2 PM
+  > Any extra meeting will be discussed during the day.
 
 - What platforms will you use to communicate (ie. Slack, phone …)?
   - Slack.
